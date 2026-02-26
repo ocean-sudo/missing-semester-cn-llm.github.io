@@ -10,6 +10,10 @@ excerpt: '' # work around a bug
 
 # The Missing Semester of Your CS Education 中文版
 
+<p class="center padded construction" style="font-size:1.05rem;">
+<strong>重要说明：</strong>本站 <strong>2026 全部讲义内容为 LLM 全程机翻生成</strong>，目前未完成逐段人工校对。请谨慎引用，建议对照英文原文使用。
+</p>
+
 大学里的计算机课程通常专注于讲授操作系统、数据库、机器学习等“学科内容”，但对“如何高效使用工具”常常着墨不多。  
 在这个系列课程中，我们会系统讲解命令行、编辑器、版本控制、调试与性能分析、工程质量、代码交付，以及与 AI 协作开发。
 
@@ -79,7 +83,7 @@ excerpt: '' # work around a bug
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester-cn/missing-semester-cn.github.io">Source code</a>.</p>
+<p><a href="https://github.com/ocean-sudo/missing-semester-cn-llm.github.io">Source code</a>.</p>
 <p>Licensed under CC BY-NC-SA.</p>
 <p>See <a href="/license">here</a> for contribution &amp; translation guidelines.</p>
 </div>

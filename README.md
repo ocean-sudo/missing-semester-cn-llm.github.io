@@ -26,6 +26,9 @@ bundle exec jekyll serve -w
 
 想要参与这个翻译项目，请通过创建一个 issue 来预订您的主题，我会相应地更新此表格，以避免重复工作。
 
+### 2020 版本（历史人工翻译）
+
+下面表格为 2020 版本讲义的历史翻译记录（人工翻译）：
 
 |  讲义   | 翻译者  | 状态 |
 |  ----  | ----  |----  |
@@ -42,12 +45,12 @@ bundle exec jekyll serve -w
 | [qa.md](_2020/qa.md) | [@AA1HSHH](https://github.com/AA1HSHH) | 完成 |
 | [about.md](about.md)  | [@Binlogo](https://github.com/Binlogo)  | 完成 |
 
+### 2026 版本（LLM 全量机翻）
+
+- `_2026/` 目录下的 2026 讲义由 LLM 全量机翻生成。
+- 当前版本未完成逐段人工校对，建议对照英文原文阅读与引用。
+- 已同步 2026 课程缩略图与页面渲染能力（包括 sidenote 样式）。
 
 ## 新项目
 
 [Learncpp中文版](https://github.com/hanxiaomax/Learncpp_CN).
-
-## 2026 进度
-
-- 已新增 `_2026/` 课程目录（含 9 篇讲义与索引页）。
-- 已同步 2026 课程缩略图资源。
